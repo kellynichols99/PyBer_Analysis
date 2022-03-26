@@ -39,6 +39,7 @@ We have cleaned the data so we could provide detailed numbers and statistics for
 The drivers working in the Rural areas have fewer rides but the average fare per driver is much higher than the averages for Suburban and Urban areas. Then on the other side of the story the number of rides in the Urban areas are far higher than the other city types making the earning potential higher. 
 <p>
 Key take aways: 
+  
 - For drivers working in the Rural areas, it may be more difficult to find drivers to work consistently with the much lower number of rides and therefor income. 
 
 - The higher price for the customer in Rural areas is also a concern.

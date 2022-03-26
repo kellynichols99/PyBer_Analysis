@@ -4,6 +4,7 @@
 We have been hired by PyBer, a ride sharing app company to analyze all the rideshare data from January to early may of 2019. More specificly we are looking for statistics on city type, number of rides, and fare averages.
 
 <h1>Resources</h1>
+
 - Data Sources: city_data.csv, ride_data.csv
 
 - Software: Python 3.9, Jupyter Notebook

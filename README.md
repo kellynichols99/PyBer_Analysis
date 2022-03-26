@@ -36,4 +36,13 @@ We have been hired by PyBer, a ride sharing app company to analyze all the rides
 
 We have cleaned the data so we could provide detailed numbers and statistics for multiple data points, simplifying the data into easy to read DataFrames and plots.
 <p>
-The drivers working in the Rural areas have fewer rides but the average fare per driver is much higher than the averages for Suburban and Urban areas. Then on the other side of the story the number of rides in the Urban areas are far higher than the other city types making the earning potental higher. 
+The drivers working in the Rural areas have fewer rides but the average fare per driver is much higher than the averages for Suburban and Urban areas. Then on the other side of the story the number of rides in the Urban areas are far higher than the other city types making the earning potential higher. 
+<p>
+Key take aways: 
+- For drivers working in the Rural areas, it may be more difficult to find drivers to work consistently with the much lower number of rides and therefor income. 
+
+- The higher price for the customer in Rural areas is also a concern.
+
+- The much larger number of rides completed in Urban areas will require a higher volume of drivers to support the demand
+
+- You could gather more specific data on the time of day rides are completed, to make better decisions on pricing, and the needed location of drivers. 

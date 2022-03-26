@@ -5,6 +5,7 @@ We have been hired by PyBer, a ride sharing app company to analyze all the rides
 
 <h1>Resources</h1>
 - Data Sources: city_data.csv, ride_data.csv
+
 - Software: Python 3.9, Jupyter Notebook
 
 <h1>Summary</h1>
